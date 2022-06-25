@@ -3,7 +3,7 @@
 <hr>
 
 ## About me
-**I have a passion for developing cutting-edge web applications. I currently work part-time at Revolving Games, one of the biggest Game Dev Studios in Pakistan. I primarily use Javascript for web development, but I also posses hands-on experience in C++, Python, and Go.**
+**I have a passion for developing cutting-edge web applications. I currently work as a part-time Web Developer at Revolving Games, one of the biggest Game Dev Studios in Pakistan. I primarily use Javascript for web development, but I also posses hands-on experience in C++, Python, and Go.**
 
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
@@ -19,6 +19,13 @@
 - Development of Full Scale Web Applications
 - Microservices Architecture for Web Applications
 - DevOps
+
+## 🏹 Interests
+
+- Massively Multiplayer Online Games
+- Scaleable Web Applications
+- Reinforcement Learning
+- Autonomous Drones
 
 ## ⚙️ Tools & Technologies Used
 
