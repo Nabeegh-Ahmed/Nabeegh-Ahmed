@@ -3,7 +3,7 @@
 <hr>
 
 ## About me
-**I have a passion for developing cutting-edge web applications. I currently work as a part-time Web Developer at Gordian Solutions. I primarily use Javascript for web development, but I also posses hands-on experience in C++, Python, and Go.**
+**I have a passion for developing cutting-edge web applications. I currently work as a Software Engineer at Educative. Polyglot with experience in Typescript, Python, and Golang.**
 
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
