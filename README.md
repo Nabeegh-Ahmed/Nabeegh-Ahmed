@@ -1,5 +1,5 @@
 # Hi there👋
-### I am *Nabeegh Ahmed* a Full Stack Web Developer.
+ I am *Nabeegh Ahmed* a Full Stack Web Developer.
 <hr>
 
 ## About me
