@@ -1,9 +1,9 @@
 # Hi there👋
- I am *Nabeegh Ahmed* a Full Stack Web Developer.
+ I am *Nabeegh Ahmed* an AI Engineer
 <hr>
 
 ## About me
-**I have a passion for developing cutting-edge web applications. I currently work as a Software Engineer at Educative. Polyglot with experience in Typescript, Python, and Golang.**
+**I have a passion for developing cutting-edge AI and Web applications. I currently work as a Software Engineer at Educative. Polyglot with experience in Typescript, Python, and Golang.**
 
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 ## 👨‍💻 Technical Skills & Expertise
-
+- Development and integration of Large Language Models
 - Development of Full Scale Web Applications
 - Microservices Architecture for Web Applications
 - DevOps
