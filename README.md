@@ -1,9 +1,6 @@
-# Hi there👋
- I am *Nabeegh Ahmed* an AI Engineer
+# Hi there 👋
+My name is Nabeegh, I am an AI Engineer specializing in Generative-AI and LLMs. I have worked extensively with Python, Golang, and Typescript. 
 <hr>
-
-## About me
-**I have a passion for developing cutting-edge AI and Web applications. I currently work as a Software Engineer at Educative. Polyglot with experience in Typescript, Python, and Golang.**
 
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
@@ -25,7 +22,7 @@
 - Massively Multiplayer Online Games
 - Scaleable Web Applications
 - Reinforcement Learning
-- Autonomous Drones
+- AI in Warfare
 
 ## ⚙️ Tools & Technologies Used
 
